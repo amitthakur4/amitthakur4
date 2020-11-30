@@ -1,8 +1,7 @@
 ### Hello, folks!   👋
 
 
-
-Here are some ideas to get you started:
+Quick Snapshort
 
 - 🔭 I’m currently working on ... Time Series Dataset
 - 🌱 I’m currently learning ... Deep Learning Techniques , Stock Market , High level Statistics
