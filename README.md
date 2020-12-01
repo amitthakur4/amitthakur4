@@ -1,7 +1,7 @@
 ### Hello, folks!   👋
 
 
-I'm a Data Anlyst at TradePath Capital focusing majority of my time in Data Researching to find Profitable Strategies in US stock exchange using a bit understanding of market , math and algorithms as well as lot understanding to handle risk reward ratio for portfolio , creating a pipeline for raw Data to be stored in a database using Python and more.
+I'm a Data Anlyst at TradePath Capital focusing majority of my time in Data Researching to find Profitable Strategies in US stock exchange using understanding of market , math , algorithms and to handle risk reward ratio for portfolio , creating a pipeline for raw Data to be stored in a database using Python and more.
 
 Here is a Quick sanpshot about me.
 
